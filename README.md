@@ -1,5 +1,5 @@
 ### Hi there# 💫 About Me:
-🔭 I’m currently working on fronted  end developing <br>👯 I’m looking to collaborate on with any one who interested<br>🤝 I’m looking for help with you and learn with grow<br>🌱 I’m currently learning mern stack development<br>💬 Ask me about<br>⚡ Fun fact 
+🔭 I’m currently working on Front-end development <br>👯 I’m looking to collaborate on with any one who interested<br>🤝 I’m looking for help with you and learn with grow<br>🌱 I’m currently learning mern stack development<br>💬 Ask me about<br>⚡ Fun fact 
 
 
 ## 🌐 Socials:
